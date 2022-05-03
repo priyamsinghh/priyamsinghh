@@ -14,4 +14,4 @@
 - Linkedin- [@priyam-singh-015911202](https://www.linkedin.com/in/priyam-singh-015911202?lipi=urn:li:page:d_flagship3_profile_view_base_contact_details;HRROCiLnQbW%2bkZKhme/JZw==)
 
 
-https://github-readme-stats.vercel.app/api?username=priyamsinghh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+<img src="https://github-readme-stats.vercel.app/api?username=priyamsinghh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"
