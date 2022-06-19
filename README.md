@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Python, Web Development**
 
-- 🤝 I’m looking for help with **Web Development**
-
 - 💬 Ask me about **anything , Would love to answer them.✌**
 
 - 📫 How to reach me **All Social media platorms**
